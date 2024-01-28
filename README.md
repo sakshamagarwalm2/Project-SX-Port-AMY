@@ -14,5 +14,6 @@ Get in touch: This is just the beginning of the conversation. Reach out through 
 Inspect the code, marvel at the clean structure and clever JavaScript solutions. Feel free to borrow, adapt, and leave your mark, that's what the open web is all about!
 Spot the easter eggs? Hidden jokes, tributes, and playful winks await the observant eye.
 Ultimately, this portfolio is my invitation to connect. So, step inside, explore, and let's chat about the magic of code, design, and the endless possibilities of the web!
-![Alt text](/sx-amyy.jpg)
+
+![Alt text](/sx-amyy.png)
 
